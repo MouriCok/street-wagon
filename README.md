@@ -23,7 +23,7 @@ Street Wagon is designed with food lovers in mind. We understand the thrill of f
 4. **Track and Taste:** Start exploring and tracking food trucks around you. Bon appétit!
 
 ## Feedback and Support
-We love hearing from our users! If you have any feedback, suggestions, or need support, feel free to reach out to us at [Email](mbukhoury.mb@gmail.com). Your input helps us improve and provide you with the best possible experience.
+We love hearing from our users! If you have any feedback, suggestions, or need support, feel free to reach out to us at [Email](mailto:mbukhoury.mb@gmail.com?subject=I%20want%20to%20Collaborate). Your input helps us improve and provide you with the best possible experience.
 
 ## Contributing
-Street Wagon is an open-source project, and we welcome contributions from the community. If you're a developer interested in contributing, you can reach me by [Email](mbukhoury.mb@gmail.com) for more information on how to get started.
+Street Wagon is an open-source project, and we welcome contributions from the community. If you're a developer interested in contributing, you can reach me by [Email](mailto:mbukhoury.mb@gmail.com?subject=I%20want%20to%20Collaborate) for more information on how to get started.
