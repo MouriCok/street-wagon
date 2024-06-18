@@ -1,0 +1,7 @@
+{
+  "name": "MouriCok/street-wagon",
+  "description": "Welcome to Street Wagon – your ultimate companion for discovering food trucks in your vicinity! Whether you're a student on a lunch break, a teenager hanging out with friends, or a street food aficionado, Street Wagon helps you find the best food trucks near you with ease.",
+  "require": {
+    "php": "^7.4"
+  }
+}
