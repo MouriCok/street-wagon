@@ -26,18 +26,6 @@
         <li><a href="index.php">Street Wagon</a></li>
         <li><a href="contact.php">CONTACT</a></li>
       </ul>
-      <ul class="nav navbar-nav navbar-right">
-        <?php
-          session_start();
-          if (isset($_SESSION['logged_in']) && $_SESSION['logged_in']) {
-              // If user is logged in, show username
-              echo '<li><a href="profile.php"><span class="glyphicon glyphicon-user"></span> ' . $_SESSION['username'] . '</a></li>';
-          } else {
-              // If user is not logged in, show login link
-              echo '<li class="login"><a href="login.php"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>';
-          }
-        ?>
-      </ul>
     </div>
   </div>
 </nav>
